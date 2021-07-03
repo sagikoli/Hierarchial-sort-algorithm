@@ -1,5 +1,7 @@
-#Hierarchial Sorting algorithm that sorts elements such that no child node/element appears before its parent
+# Hierarchial Sorting algorithm 
+### Functionality : Sorts elements such that no child node/element appears before its parent
 
+```
 Sample Input : 
 [
   {
@@ -37,3 +39,5 @@ Sample output :
     "parent_id": 1
   }
 ]
+
+```
